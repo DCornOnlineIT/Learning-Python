@@ -1,9 +1,25 @@
 # Learning Python from Scratch
-This is a repo I will be using to store my code as I learn Python following 100 Days of Code™: The Complete Python Pro Bootcamp on Udemy
-Documenting my Python journey — one day at a time! 🚀
 
-## Day 1 - Variables & Input
-- Learned about, `print()`, `input()`, `len()`, and string concatenation
-- Built a simple name greeter that counts characters
+Hey! I'm following **100 Days of Code: The Complete Python Pro Bootcamp** on Udemy and committing everything I build.
+This repo is my public progress log.
 
-[Code here](./Day%201/learning-variables.py)
+## Progress
+
+### Day 1 – Variables, Input & String Manipulation  
+**Concepts learned:**  
+- `print()`  
+- `input()`  
+- Variables  
+- `len()`  
+- String concatenation (`+`)  
+- Newlines (`\n`)
+
+**Projects built:**  
+1. Name length counter  
+2. Band Name Generator (final Day 1 project)  
+
+**Code:**  
+- [Name length exercise](./Day%201/learning-variables.py)  
+- [Band Name Generator](./Day%201/band-name-generator.py)
+
+---
